@@ -1,10 +1,10 @@
-# myapp
+# Aplicativo "Planeta"
 
-A new Flutter project.
+um novo projeto Flutter
 
-## Getting Started
+## Descrição
 
-This project is a starting point for a Flutter application.
+Esse é um programa desenvolvido para android.
 
 A few resources to get you started if this is your first Flutter project:
 
